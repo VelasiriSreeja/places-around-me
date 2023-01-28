@@ -14,7 +14,7 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
 
 ## Code:
 ### map.html:
-
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -33,10 +33,10 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
     </body>
 </html>
 
-
+```
 
 ### velavanhypermarket.html:
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -53,9 +53,9 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
 </html>
 
 
-
+```
 ### tharuvai.html:
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -98,10 +98,10 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
 </body>
 </html>
 
-
+```
 
 ### theater.html:
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -135,9 +135,9 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
 </body>
 </html>
 
-
+```
 ### sureshias.html:
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -164,7 +164,7 @@ Tamilnadu, India.</h3>
 <h2>WE HELP YOU DEFINE YOUR OWN FUTURE AND MAKE IT HAPPEN!</h2>
 </body>
 </html>
-
+```
 ## Output:
 
 
